@@ -1,2 +1,2 @@
 # Corrupt Image Detector
-This is a 5 minute Project, so basically not much to look at.
+This is an short project to detect corrupt images in an folder.
